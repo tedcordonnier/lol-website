@@ -2,6 +2,7 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://jpanther.github.io/congo/docs/getting-started/
 
+# This URL needs to be changed depending on the name of URL of the website
 baseURL = "https://lol-website.duketedder.workers.dev/"
 title = "Duke's Drafting"
 theme = "congo"
