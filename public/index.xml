@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Duke&#39;s Drafting</title>
+    <title>Posts on Duke&#39;s Drafting</title>
     <link>https://ted-project-2026/</link>
-    <description>Recent content on Duke&#39;s Drafting</description>
+    <description>Recent content in Posts on Duke&#39;s Drafting</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2026 Duke</copyright>
@@ -17,6 +17,4 @@
       <description></description>
     </item>
   </channel>
-</rss>
-</channel>
 </rss>
