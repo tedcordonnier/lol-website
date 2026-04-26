@@ -1,0 +1,6 @@
+# Ignore the folder where Hugo builds the site
+/public
+/resources
+
+# Ignore temporary cache files
+/.hugo_build.lock

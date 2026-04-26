@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://ted-project-2026/sitemap.xml
