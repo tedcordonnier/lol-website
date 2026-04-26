@@ -1,0 +1,9 @@
+/* Target the utility class Congo uses on the article tag */
+.max-w-prose {
+    max-width: 90rem !important;
+}
+
+/* Ensure the main prose container also expands */
+.prose {
+    max-width: 90rem !important;
+}
